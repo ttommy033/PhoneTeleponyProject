@@ -1,5 +1,3 @@
-##Author:       Thomas Reidy, Joeseph Kuzera
-##Class:        CPSC4600 Programming Language
 ##Date:         December 18th, 2020
 ##File:         Main File
 import Building as bld
