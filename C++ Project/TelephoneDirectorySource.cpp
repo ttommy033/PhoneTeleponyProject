@@ -1,7 +1,5 @@
 /*
-Author:		Thomas Reidy
 Date:		12/11/2019
-Class:		CIS2542 Advanced C++
 File:		TelephoneDirectorySource.cpp
 Descr:
 Design and impelement a telephone directory system
