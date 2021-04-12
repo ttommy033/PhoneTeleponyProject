@@ -179,7 +179,7 @@ void menu(struct TelephoneDirectory t1, struct TelephoneDirectory t2, struct Tel
 /*
 TEST OUTPUT OF ALL FUNCTIONS 
 
-Please enter a Telephone Directory: "D:\Advanced C++\Final Project\TelephoneDirectory.txt"
+Please enter a Telephone Directory: "D:\TelephoneDirectory.txt"
 1. Add a telephone directory entry
 2. Search for an entry by name
 3. Reverse number look up
@@ -188,15 +188,14 @@ Enter your choice: 1
 Enter a number to the directory that you would like to add: 123123
 The number: 123123 was added to the directory
 
-D:\Advanced C++\Final Project\ProjectFinal\Debug\ProjectFinal.exe (process 2404) exited with code 0.
-Press any key to close this window . . .
+
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Please enter a Telephone Directory: "D:\Advanced C++\Final Project\TelephoneDirectory.txt"
+Please enter a Telephone Directory: "D:\TelephoneDirectory.txt"
 1. Add a telephone directory entry
 2. Search for an entry by name
 3. Reverse number look up
@@ -207,15 +206,13 @@ Marge Walder number is 312-840-3405
 Would you like to search for another name? Y or N
 N
 
-D:\Advanced C++\Final Project\ProjectFinal\Debug\ProjectFinal.exe (process 3468) exited with code 0.
-Press any key to close this window . . .
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Please enter a Telephone Directory: "D:\Advanced C++\Final Project\TelephoneDirectory.txt"
+Please enter a Telephone Directory: "D:\TelephoneDirectory.txt"
 1. Add a telephone directory entry
 2. Search for an entry by name
 3. Reverse number look up
@@ -224,15 +221,13 @@ Enter your choice: 3
 Telephone Number to look up: 312-445-9892
 That Telephone Number belongs to:
 
-D:\Advanced C++\Final Project\ProjectFinal\Debug\ProjectFinal.exe (process 10144) exited with code 0.
-Press any key to close this window . . .
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Please enter a Telephone Directory: "D:\Advanced C++\Final Project\TelephoneDirectory.txt"
+Please enter a Telephone Directory: "D:\TelephoneDirectory.txt"
 1. Add a telephone directory entry
 2. Search for an entry by name
 3. Reverse number look up
@@ -241,7 +236,6 @@ Enter your choice: 4
 what telephone number would you like to delete: 217-451-0184
 217-451-0184 has been removed from the directory
 
-D:\Advanced C++\Final Project\ProjectFinal\Debug\ProjectFinal.exe (process 5716) exited with code 0.
-Press any key to close this window . . .
+
 
 */
