@@ -1,0 +1,16 @@
+class Solution {
+public:
+  bool containsDupliate(vector<int>& nums) {
+    //start of by sorting the array using built in sort library
+    sort(nums.begin(), nums.end());
+    //loop through the array
+    for(int i = 0; i <= nums.size()-1; i++) {
+      //if any of the indexes are equal while traversing then there is a duplicate
+      if(nums[i] == nums[i+1])
+        return true;
+    }
+    return false;
+  }
+};
+
+//look into optimising this as its (n(O) and has to traverse the array atleast once
