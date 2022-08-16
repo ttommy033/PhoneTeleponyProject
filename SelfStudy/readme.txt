@@ -1,1 +1,3 @@
-Just some self study code from Udemy, Youtube, Tutorial, Textbooks, and other places
+Self study code from Udemy, Youtube, Tutorial, Textbooks, and other places.
+
+Practice code problems I've done/solved leetcode, hackerrank etc. 
