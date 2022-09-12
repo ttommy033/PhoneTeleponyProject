@@ -1,1 +1,0 @@
-Python Project that has best case and worst case scenarios regarding how many buildings and patrons a building has
